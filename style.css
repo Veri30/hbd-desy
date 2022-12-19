@@ -45,11 +45,11 @@ body{
 .description{
     font-size: 1rem;
     margin-bottom: 20px;
-    align-text : center;
+    text-align: center;
 }
 .desc2{
 Font-size :1rem;
-    color-text :#FFC0CB;
+    color :#FFC0CB;
 }
 
 .button a{

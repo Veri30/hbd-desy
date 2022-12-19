@@ -21,6 +21,11 @@ body{
 .greetings > span{
     animation: glow 6s ease-in-out infinite;
 }
+.greetings > p{
+
+    animation: glow 6s ease-in-out infinite;
+
+}
 @keyframes glow{
     0%, 100%{
         color: #FFF;

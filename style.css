@@ -13,7 +13,7 @@ body{
     background-color: black;
 }
 .greetings{
-    font-size: 8rem;
+    font-size: 6rem;
     font-weight: 800;
     margin-bottom: 20px;
     text-align: center;
@@ -59,7 +59,7 @@ font-size :1rem;
     color :#FFC0CB;
 }
 .lagu{
-    
+   background:transparent;
     opacity:0.4;
 }
 
